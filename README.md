@@ -208,4 +208,4 @@ MIT License — Copyright (c) 2026 swordenkisk
 **github.com/swordenkisk/llm_clinical_notes**
 
 *Idea score: 90.3/100 — Novelty: 96 | Feasibility: 77 | Impact: 96*
-*From ideas_database.db — swordenkisk 🇩🇿 March 2026*
+ — swordenkisk 🇩🇿 March 2026*
