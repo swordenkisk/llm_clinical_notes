@@ -1,0 +1,17 @@
+MIT License — Copyright (c) 2026 swordenkisk (https://github.com/swordenkisk)
+
+Project : llm_clinical_notes
+Author  : swordenkisk | github.com/swordenkisk/llm_clinical_notes
+Created : March 2026
+Source  : ideas_database.db — idea score 90.3/100
+
+Domain      : HealthTech
+Technology  : Fine-tuned LLM + FHIR R4 + Medical NLP
+Problem     : Clinicians spend 50% of their time on paperwork, not patients.
+Solution    : NLP pipeline converting free-text notes to structured FHIR R4 JSON.
+Impact      : ~60% admin time reduction per note
+
+Novelty: 96/100 | Feasibility: 77/100 | Impact: 96/100
+
+FHIR resources generated: Condition, MedicationRequest, Observation, Procedure, Patient
+Standards: ICD-10, SNOMED-CT, LOINC, RxNorm, HL7 FHIR R4
